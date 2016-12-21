@@ -16,6 +16,7 @@
 		C20DEDD71E0AA57F00207BEC /* qqqqqqqTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C20DEDD61E0AA57F00207BEC /* qqqqqqqTests.m */; };
 		C20DEDE21E0AA57F00207BEC /* qqqqqqqUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C20DEDE11E0AA57F00207BEC /* qqqqqqqUITests.m */; };
 		C20DEDF11E0AA61A00207BEC /* TTTTYViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C20DEDF01E0AA61A00207BEC /* TTTTYViewController.m */; };
+		C20DEDF41E0AAD3C00207BEC /* ereterterterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C20DEDF31E0AAD3C00207BEC /* ereterterterViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		C20DEDE31E0AA57F00207BEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C20DEDEF1E0AA61A00207BEC /* TTTTYViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTTTYViewController.h; sourceTree = "<group>"; };
 		C20DEDF01E0AA61A00207BEC /* TTTTYViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTTYViewController.m; sourceTree = "<group>"; };
+		C20DEDF21E0AAD3C00207BEC /* ereterterterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ereterterterViewController.h; sourceTree = "<group>"; };
+		C20DEDF31E0AAD3C00207BEC /* ereterterterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ereterterterViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				C20DEDC31E0AA57E00207BEC /* ViewController.m */,
 				C20DEDEF1E0AA61A00207BEC /* TTTTYViewController.h */,
 				C20DEDF01E0AA61A00207BEC /* TTTTYViewController.m */,
+				C20DEDF21E0AAD3C00207BEC /* ereterterterViewController.h */,
+				C20DEDF31E0AAD3C00207BEC /* ereterterterViewController.m */,
 				C20DEDC51E0AA57E00207BEC /* Main.storyboard */,
 				C20DEDC81E0AA57F00207BEC /* Assets.xcassets */,
 				C20DEDCA1E0AA57F00207BEC /* LaunchScreen.storyboard */,
@@ -282,6 +287,7 @@
 				C20DEDC41E0AA57E00207BEC /* ViewController.m in Sources */,
 				C20DEDC11E0AA57E00207BEC /* AppDelegate.m in Sources */,
 				C20DEDBE1E0AA57E00207BEC /* main.m in Sources */,
+				C20DEDF41E0AAD3C00207BEC /* ereterterterViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

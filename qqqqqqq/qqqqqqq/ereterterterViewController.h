@@ -1,5 +1,5 @@
 //
-//  TTTTYViewController.h
+//  ereterterterViewController.h
 //  qqqqqqq
 //
 //  Created by lanou3g on 16/12/21.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TTTTYViewController : UIViewController
-
-@property (strong, nonatomic) UILabel *label2;
+@interface ereterterterViewController : UIViewController
 
 @end
